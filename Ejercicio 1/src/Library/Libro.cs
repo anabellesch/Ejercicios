@@ -18,11 +18,7 @@ namespace SRP
             this.Code = code;
         }
 
-        public void ShelveBook(String sector, String shelve)
-        {
-            this.LibrarySector = sector;
-            this.LibraryShelve = shelve;
-        }
+       
 
     }
 }
